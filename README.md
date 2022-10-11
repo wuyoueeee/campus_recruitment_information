@@ -1,0 +1,2 @@
+# campus_recruitment_information
+2023届校招资讯汇总，每天更新最新校招信息，目前已收录1800+条招聘信息
